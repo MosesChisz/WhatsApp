@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
         margin: 5,
         padding: 10,
         borderRadius: 10,
-        maxWidth: '30%', /// change to 80%
+        maxWidth: '80%', /// change to 80%
 
         shadowColor: '#000',
         shadowOffset: {
