@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { FlatList } from 'react-native';
-import ContactListItem from '../components/ContactListItem copy';
+import ContactListItem from '../components/ContactListItem';
 import { API, graphqlOperation } from 'aws-amplify';
 import { listUsers } from "../graphql/queries";
 
